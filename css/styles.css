@@ -3818,7 +3818,7 @@ img.u-pull-left {
 }
 
 .s-about__howto-screens img:nth-child(2) {
-  box-shadow: 12px 8px 20px rgba(0, 0, 0, 0.12);
+  /* box-shadow: 12px 8px 20px rgba(0, 0, 0, 0.12); */
   right: var(--vspace-1);
 }
 
@@ -3875,9 +3875,9 @@ img.u-pull-left {
     max-width: 1000px;
   }
 
-  .s-about__screen img {
-    box-shadow: -13px 8px 30px rgba(0, 0, 0, 0.12);
-  }
+  /* .s-about__screen img {
+     box-shadow: -13px 8px 30px rgba(0, 0, 0, 0.12); 
+  } */
 }
 
 @media screen and (max-width: 1100px) {
